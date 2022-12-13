@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670940370 source:/home/bellatrix/Desktop/Calcular/main.c
+	<stdio.h>
+	<stdlib.h>
+
